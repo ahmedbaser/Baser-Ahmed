@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="[Replace with a static image of Baser Ahmed Shiplu]" alt="Baser Ahmed Shiplu" width="200" />
-</p>
-
 <h1 align="center">
   Hi There! 👋 I'm Baser Ahmed Shiplu
 </h1>
@@ -14,7 +10,7 @@
 
 -   👨‍💻 Passionate and results-oriented Web Developer dedicated to creating robust and user-friendly web applications.
 -   🌱 Continuously expanding my skillset and exploring the latest advancements in web development technologies.
--   📫 Contact: [Your Preferred Contact Method/Link - e.g., LinkedIn, Email]
+-   📫 Contact To Me: ahmedbaser529@gmail.com
 
 ## 🛠️ Tech Stack
 
@@ -44,26 +40,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baserahmedshiplu&show_icons=true&theme=dracula" alt="Baser Ahmed Shiplu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedbaser&show_icons=true&theme=dracula" alt="Ahmed Baser's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baserahmedshiplu&theme=dracula" alt="Baser Ahmed Shiplu's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbaser&theme=dracula" alt="Ahmed Baser's GitHub Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baserahmedshiplu" alt="Baser Ahmed Shiplu's GitHub Trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedbaser" alt="Baser Ahmed Shiplu's GitHub Trophies" /></a>
 </p>
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="[Your LinkedIn Profile URL]" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/baser-ahmed-shiplu-57ba0a1ba/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Baser Ahmed Shiplu's LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/baserahmedshiplu" target="_blank" rel="noreferrer">
+  <a href="https://github.com/ahmedbaser" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Baser Ahmed Shiplu's GitHub" height="30" width="40" />
   </a>
   </p>
