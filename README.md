@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Web Developer
+  Passionate Full-Stack Web Developer | Building Engaging and User-Friendly Web Solutions
 </h3>
 
 ## 🧑‍💻 About Me
