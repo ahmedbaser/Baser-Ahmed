@@ -44,13 +44,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbaser&theme=dracula" alt="Ahmed Baser's GitHub Streak" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbaser&" alt="ahmedbaser" />
 </p>
+
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedbaser" alt="Baser Ahmed Shiplu's GitHub Trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedbaser" alt="Baser Ahmed Shiplu's 
+  GitHub Trophies" /></a>
 </p>
 
 ## 🌐 Connect with Me
