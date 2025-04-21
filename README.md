@@ -61,7 +61,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/baser-ahmed-shiplu-57ba0a1ba/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/baserahmed/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Baser Ahmed Shiplu's LinkedIn" height="30" width="40" />
   </a>
   <a href="https://github.com/ahmedbaser" target="_blank" rel="noreferrer">
